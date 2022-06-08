@@ -1,10 +1,12 @@
 name = "Jeff"
+name2 = "Tom"
 
 if
   name == "Jeff"
   prints "hurray"
 
-else
-  prints "sad"
+elsif
+  name2 == "Tom"
+  prints "boom"
 
 end
